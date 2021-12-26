@@ -2,10 +2,10 @@
 
 [link to dashboard](https://public.tableau.com/app/profile/scott.sheehan/viz/NYCCitibikeAnalysisStory_16402929707760/NewYorkCitiBikeAnalysis?publish=yes)
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 The purpose of this analysis was to utilize NYC Citibike data from the month of August to provide perspective on whether or not opening a similar type of bike share business would work in Des Moines, Iowa.  We were asked to use Tableau as the means to display our analyses.
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results: 
 
 ![image](https://user-images.githubusercontent.com/90977689/147418154-b9fcd8cd-d5f8-48b4-982d-743075bdee93.png)
 
@@ -22,4 +22,6 @@ The purpose of this analysis was to utilize NYC Citibike data from the month of 
 ![image](https://user-images.githubusercontent.com/90977689/147418270-07d450da-16c0-4c36-8bdc-2b9339d36567.png)
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
+
+In summary, if building a CitiBike business in Des Moines, the business should be scaled for a maximum utilization of 60K rides per month.  Our analysis shows that the majority of riders are annual subscribers so we should make sure that annual subscriptions are priced to ensure profitability for the business.
