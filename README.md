@@ -24,4 +24,4 @@ The purpose of this analysis was to utilize NYC Citibike data from the month of 
 
 ## Summary: 
 
-In summary, if building a CitiBike business in Des Moines, the business should be scaled for a maximum utilization of 60K rides per month.  Our analysis shows that the majority of riders are annual subscribers so we should make sure that annual subscriptions are priced to ensure profitability for the business.
+In summary, if building a CitiBike business in Des Moines, the business should be scaled for a maximum utilization of 60K rides per month.  Our analysis shows that the majority of riders are annual subscribers so we should make sure that annual subscriptions are priced to ensure profitability for the business.  Another key observation is that most utilization of the NYC citibike program is for daily commuting to and from work.  Given that the population density in Des Moines is lower than that of NYC, we should understand the average work commute distance for residents in Des Moines vs NYC.
