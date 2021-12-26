@@ -28,5 +28,5 @@ In summary, if building a CitiBike business in Des Moines, the business should b
 
 Two additional analyses that should be performed are:
 * profitability of annual subscriptions vs single use customer rides.
-* tourism rates between the two cities along with distance between tourist destinations in Des Moines.  If locations of interest to tourists are too far from each other, bikes may not be an attractive option for these customers.
+* tourism rates between the two cities along with distance between tourist destinations in Des Moines.  If locations of interest to Des Moines tourists are too far from each other, bikes may not be an attractive option for these customers.
 
